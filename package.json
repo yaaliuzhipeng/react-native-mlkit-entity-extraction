@@ -1,0 +1,42 @@
+{
+  "name": "react-native-mlkit-entity-extraction",
+  "title": "React Native Mlkit Entity Extraction",
+  "version": "1.0.0",
+  "description": "text entity extraction; based on google mlkits",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "react-native-mlkit-entity-extraction.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaaliuzhipeng/react-native-mlkit-entity-extraction.git",
+    "baseUrl": "https://github.com/yaaliuzhipeng/react-native-mlkit-entity-extraction"
+  },
+  "keywords": [
+    "react-native",
+    "entity-extration",
+    "mlkit"
+  ],
+  "author": {
+    "name": "yaaliuzhipeng",
+    "email": "yaaliuzhipeng@outlook.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">=16.8.1",
+    "react-native": ">=0.66.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.66.0"
+  }
+}
