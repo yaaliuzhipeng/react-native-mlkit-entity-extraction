@@ -48,6 +48,21 @@ The Entity Extraction API allows you to recognize specific entities within stati
 
 
 This API focuses on precision over recognition. Some instances of a particular entity might not be detected in favor of ensuring accuracy.
+
+## Installation
+
+> yarn add react-native-mlkit-entity-extraction
+
+or
+
+> npm i --save react-native-mlkit-entity-extraction
+
+**! Android Special**
+```gradle
+// 31 is required !
+compileSdkVersion = 31
+targetSdkVersion = 31
+```
 ## Usage
 
 **Quick example:** identify language type
