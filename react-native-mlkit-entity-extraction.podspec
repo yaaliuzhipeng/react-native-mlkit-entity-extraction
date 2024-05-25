@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.dependency "React"
-  s.dependency "GoogleMLKit/EntityExtraction", "2.6.0"
+  s.dependency "GoogleMLKit/EntityExtraction", "3.1.0"
   # ...
   # s.dependency "..."
 end
